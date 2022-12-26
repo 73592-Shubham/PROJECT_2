@@ -1,0 +1,46 @@
+body{
+    background-image: url('/images/bg.jpg'); 
+    /* just type the forward slash here and got my path as above */
+    background-size: 1380px 1053px;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin:0px;
+  padding:0px;
+    
+}
+
+nav{
+  margin: 8px 10px;
+  margin-right: 30px;
+  padding: 10px 10px;
+  border: 2px solid #a9d3ce;
+  margin-right: 351px;
+    border-radius: 9px;
+    width:75%;
+  
+}
+
+img{
+  height: 40px;
+}
+
+ul{
+  margin-right: 350px;
+}
+
+li{
+  margin-right: 10px;
+}
+
+form{
+  margin-top: 48px;
+  margin-left: 106px;
+}
+
+#listOfUsers{
+margin-top: 30px;
+  color: black;
+  list-style: none;
+
+}
